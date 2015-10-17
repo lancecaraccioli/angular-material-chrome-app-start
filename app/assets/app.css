@@ -128,3 +128,10 @@ span.name {
   font-size:1.1em;
   padding-left:5px;
 }
+
+/**
+         * Hide when Angular is not yet loaded and initialized
+         */
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}

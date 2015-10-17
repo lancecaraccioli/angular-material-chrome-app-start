@@ -1,0 +1,12 @@
+{
+  "name": "Angular Material Chrome App Start!",
+  "description": "Seed for chrome app based on angular's material-start.",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "icon-16.png", "128": "icon-128.png" }
+}
