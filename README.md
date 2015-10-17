@@ -1,3 +1,8 @@
+# Angular Material-Start For Chrome Apps
+
+Follow the directions to [launch an unpacked extension](https://developer.chrome.com/apps/first_app#five)
+Note: you need to select the "app" folder.
+
 # Angular Material-Start
 
 This Material **start*** project is a *seed* for AngularJS Material applications. The project contains a sample AngularJS application and is pre-configured to install the Angular framework and a bunch of development and testing tools for instant web development gratification.
